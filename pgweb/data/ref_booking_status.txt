@@ -1,0 +1,9 @@
+12541|Confirmed
+12542|6 PM Release
+12552|Tentative / Provisional
+12562|Waitlist
+12572|Turn away
+12582|Cancelled
+12592|No Show
+12642|Company Guarantee
+12652|Travel Agent Guarantee

@@ -1,0 +1,356 @@
+34213|Air conditioning
+34214|Bar/lounge
+34215|Babysitting or childcare
+34216|Elevator/lift
+34217|Fitness facilities
+34218|Free airport transportation
+34219|Indoor pool
+34220|Restaurant
+34221|Room service (limited hours)
+34222|Outdoor pool
+34223|Television
+34224|Supervised childcare/activities
+34225|Hair salon
+34226|ATM/banking
+34227|Concierge services
+34228|Gift shops or newsstand
+34229|Shopping on site
+34230|Pets allowed
+34231|Airport transportation (surcharge)
+34232|Conference space
+34233|Wheelchair accessible
+34234|Free newspaper
+34235|Refrigerator
+34236|Minibar
+34237|Coffee/tea maker
+34238|Daily housekeeping
+34239|Hypo-allergenic bedding available
+34240|Phone
+34241|Free local calls
+34242|Private bathroom
+34243|Bathrobes
+34244|Free toiletries
+34245|Hair dryer
+34246|Iron/ironing board
+34247|In-room safe
+34248|Fireplace
+34249|Jetted bathtub
+34250|American Express
+34251|Diners Club
+34252|Discover
+34253|JCB International
+34254|MasterCard
+34255|Visa
+34256|Cash not accepted
+34257|Business services
+34258|Kitchenette
+34259|Fireplace in lobby
+34260|Balcony
+34261|Barbecue grill(s)
+34262|Yard
+34263|Coffee/tea in common areas
+34264|Ceiling fan
+34265|Washer/dryer
+34266|Ski storage
+34267|Breakfast available (surcharge)
+34268|Laundry facilities
+34269|Spa tub
+34270|Television in common areas
+34271|Arcade/game room
+34272|Garden
+34273|Library
+34274|Lanai
+34275|Espresso maker
+34276|Poolside bar
+34277|Swim-up bar
+34278|Free breakfast
+34279|Coffee shop or café
+34280|Health club
+34281|Nightclub
+34282|Children's pool
+34283|Room service (24 hours)
+34284|Safe-deposit box at front desk
+34285|Spa services on site
+34286|Check-in time starts at
+34287|Check-out time is
+34288|Designer toiletries
+34289|Desk
+34290|Video-game console
+34291|In-room climate control (air conditioning)
+34292|Free weekday newspaper
+34293|Patio
+34294|Premium bedding
+34295|Second bathroom
+34296|Shared bathroom
+34297|Separate sitting area
+34298|Sofa bed
+34299|Pay movies
+34300|Multilingual staff
+34301|Rollaway/extra beds available
+34302|Cribs/infant beds available
+34303|Free newspapers in lobby
+34304|Free use of nearby fitness center
+34305|Picnic area
+34306|Pets not allowed
+34307|Room service
+34308|Soundproofed rooms
+34309|Iron/ironing board (on request)
+34310|Turndown service
+34311|Free bottled water
+34312|Microwave
+34313|Cookware, dishware, and utensils
+34314|24-hour front desk
+34315|Front desk (limited hours)
+34316|Business center
+34317|Porter/bellhop
+34318|Express check-out
+34319|Dry cleaning/laundry service
+34320|Limo or Town Car service available
+34321|On private beach
+34322|Premium TV channels
+34323|Ski-in/ski-out access
+34324|DVD player
+34325|Casino
+34326|Full-service spa
+34327|Marina on site
+34328|Spa treatment room(s)
+34329|Microwave (on request)
+34330|Meeting rooms
+34331|Steam room
+34332|Sauna
+34333|Ski shuttle
+34334|Smoke-free property
+34335|Outdoor seasonal pool
+34336|Access via exterior corridors
+34337|Bidet
+34338|Blackout drapes/curtains
+34339|In-room childcare (surcharge)
+34340|Kitchen
+34341|In-room massage available
+34342|Slippers
+34343|Shower only
+34344|Wedding services
+34345|Bathtub only
+34346|Separate bathtub and shower
+34347|Express check-in
+34348|Use of nearby fitness center (discount)
+34349|Hair dryer (on request)
+34350|Refrigerator (on request)
+34351|Shower/tub combination
+34352|Children's club
+34353|Local Expert Concierge
+34354|Designated smoking areas
+34355|Pool umbrellas
+34356|Airport transportation
+34357|Separate dining area
+34358|Shared bathroom with sink in room
+34359|Dishwasher
+34360|Full-sized refrigerator/freezer
+34361|Stovetop
+34362|Billiards or pool table
+34363|Grocery/convenience store
+34364|Tours/ticket assistance
+34365|In-room safe (laptop compatible)
+34366|Free WiFi
+34367|WiFi (surcharge)
+34368|Free wired high-speed Internet
+34369|Wired (high-speed) Internet access - surcharge
+34370|Satellite TV service
+34371|Digital TV service
+34372|Cable TV service
+34373|Flat-panel TV
+34374|HDTV
+34375|Free WiFi
+34376|WiFi (surcharge)
+34377|Free wired high-speed Internet
+34378|Wired high-speed Internet access (surcharge)
+34379|Free dial-up Internet access
+34380|Dial-up Internet access (surcharge)
+34381|Free train station pickup
+34382|Year Built
+34383|Free area shuttle
+34384|Area shuttle (surcharge)
+34385|24-hour business center
+34386|No rollaway/extra beds available
+34387|No cribs (infant beds) available
+34388|No elevators
+34389|Minimum check-in age is
+34390|Parking height restrictions apply
+34391|Cash Deposit Required
+34392|Down comforter
+34393|Egyptian-cotton sheets
+34394|First-run movies
+34395|Frette Italian sheets
+34396|Individually furnished
+34397|Individually decorated
+34398|Memory foam mattress
+34399|Pillowtop mattress
+34400|Pillow menu
+34401|Sleep Number by Select Comfort mattress
+34402|LCD TV
+34403|Plasma TV
+34404|Tempur-Pedic mattress
+34405|Free reception
+34406|Golf course on site
+34407|Tennis on site
+34408|Pet maximum weight in kg is
+34409|Pet maximum weight in lb is
+34410|RV, bus, truck parking
+34411|Room size (square feet)
+34412|Room size (square meters)
+34413|MP3 docking station
+34414|iPod docking station
+34415|No pets or service animals allowed
+34416|Only dogs are allowed
+34417|Only dogs and cats are allowed
+34418|Maximum number of pets per room
+34419|Lazy river
+34420|Waterslide
+34421|Water park
+34422|Partially open bathroom
+34423|Private pool
+34424|Private plunge pool
+34425|Minimum guest age is
+34426|Free casino shuttle
+34427|Casino shuttle (surcharge)
+34428|Free cruise terminal shuttle
+34429|Cruise terminal shuttle (surcharge)
+34430|Free ferry terminal shuttle
+34431|Ferry terminal shuttle (surcharge)
+34432|Free shopping center shuttle
+34433|Shopping center shuttle (surcharge)
+34434|Free theme park shuttle
+34435|Theme park shuttle (surcharge)
+34436|Noise-free rooms not guaranteed
+34437|Designated smoking areas (fines apply)
+34438|Caters to adults only
+34439|Conference center
+34440|Indoor tennis court
+34441|Outdoor tennis courts
+34442|Snack bar/deli
+34443|Deep soaking bathtub
+34444|Rainfall showerhead
+34445|Breakfast service
+34446|Turkish bath/Hammam
+34447|Weekly housekeeping provided
+34448|One meeting room
+34449|Private bathroom (not in room)
+34450|Parking (limited spaces)
+34451|Check-in time ends at
+34452|Beach bar
+34453|Furnished balcony
+34454|In-room computer
+34455|Separate living room
+34456|Bathtub or shower
+34457|Private spa tub
+34458|Free self parking
+34459|Self parking (surcharge)
+34460|Free valet parking
+34461|Valet parking (surcharge)
+34462|Computer station
+34463|Sofa bed size
+34464|Rooftop terrace
+34465|Free long-distance calls
+34466|Free international calls
+34467|Housekeeping - weekdays only
+34468|Housekeeping - weekends only
+34469|Luggage storage
+34470|Free airport transportation - drop-off
+34471|Airport transportation - pickup (surcharge)
+34472|Airport transportation - drop-off (surcharge)
+34473|Housekeeping - once per stay
+34474|Train station pickup (surcharge)
+34475|Winery attached
+34476|Free grocery shopping service
+34477|Balcony or patio
+34478|Free water park access
+34479|Water park access (surcharge)
+34480|Shared accommodations
+34481|Furnished balcony or patio
+34482|Furnished lanai
+34483|Furnished patio
+34484|Connecting/adjoining rooms available
+34485|Free ski shuttle
+34486|Ski shuttle (surcharge)
+34487|Ski passes available
+34488|Free beach shuttle
+34489|Beach shuttle (surcharge)
+34490|Direct access to private beach
+34491|Beach umbrellas
+34492|Free beach cabanas
+34493|Beach cabanas (surcharge)
+34494|Pool cabanas (surcharge)
+34495|Free pool cabanas
+34496|Beach sun loungers
+34497|Pool sun loungers
+34498|Free long-term parking
+34499|Long-term parking (surcharge)
+34500|Free RV, bus, truck parking
+34501|RV, bus, truck parking (surcharge)
+34502|Free parking nearby
+34503|Offsite parking discounted rates available
+34504|Offsite parking reservations required
+34505|Beach towels
+34506|24-hour fitness facilities
+34507|Debit cards not accepted
+34508|Terrace
+34509|Babysitting or childcare (free)
+34510|Babysitting or childcare (surcharge)
+34511|Children's club (free)
+34512|Children's club (surcharge)
+34513|Supervised childcare/activities (free)
+34514|Supervised childcare/activities (surcharge)
+34515|Hydromassage showerhead
+34516|Cribs/infant beds (surcharge)
+34517|Free cribs/infant beds
+34518|Separate bedroom
+34519|Spring water bathtub
+34520|Private beach nearby
+34521|Please note, some room types at this property are not available when booking a stay with children.
+34522|24-hour health club
+34523|Only service dogs are allowed
+34524|Service animals exempt from fees/restrictions
+34525|Debit cards only
+34526|Shared/communal kitchen
+34527|iPad
+34528|Tablet computer
+34529|24-hour check-in
+34530|Day bed
+34531|Minibar (stocked, free items)
+34532|Minibar (stocked, some free items)
+34533|LED TV
+34534|Limited housekeeping
+34535|Air conditioning (surcharge)
+34536|Fitness facilities (surcharge)
+34537|Sauna (surcharge)
+34538|Spa tub (surcharge)
+34539|Indoor pool (surcharge)
+34540|Outdoor pool (surcharge)
+34541|Housekeeping (surcharge)
+34542|Kitchen (surcharge)
+34543|Kitchenette (surcharge)
+34544|Microwave (surcharge)
+34545|Refrigerator (surcharge)
+34546|In-room safe (surcharge)
+34547|Television (surcharge)
+34548|Newspapers in lobby (surcharge)
+34549|Pets allowed (no fees)
+34550|Rollaway/extra beds (free)
+34551|Rollaway/extra beds (surcharge)
+34552|Towels/sheets (surcharge)
+34553|Parking onsite
+34554|Internet access
+34555|Internet access
+34556|Heating
+34557|In-room climate control (heating)
+34558|Electric kettle
+34559|Oven
+34560|Portable fan
+34561|Karaoke
+34562|Free train station drop-off
+34563|Train station drop-off (surcharge)
+34564|Union Pay
+34565|Washing machine
+34566|Dryer
+34567|Electric car charging station
+34568|Rice cooker

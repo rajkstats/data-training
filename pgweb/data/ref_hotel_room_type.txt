@@ -1,0 +1,1000 @@
+887878|Double Room
+887879|Standard Room
+887880|Triple Room
+887881|Single Room
+887882|Standard Double Room
+887883|Deluxe Room
+887884|Standard Room, 1 King Bed
+887885|Family Room
+887886|Suite
+887887|Superior Room
+887888|Standard Room, 1 Queen Bed
+887889|Twin Room
+887890|Superior Double Room
+887891|Junior Suite
+887892|Quadruple Room
+887893|Standard Single Room
+887894|Standard Room, 2 Single Beds
+887895|Deluxe Double Room
+887896|Standard Twin Room
+887897|0B
+887898|Apartment, 1 Bedroom
+887899|Standard Room, 1 King Bed, Non Smoking
+887900|Studio
+887901|Double Room Single Use
+887902|Standard Room, 2 Queen Beds
+887903|Apartment, 2 Bedrooms
+887904|Room, 1 King Bed, Non Smoking
+887905|Business Room, 1 King Bed
+887906|Double or Twin Room
+887907|Standard Double or Twin Room
+887908|Deluxe Room, 1 King Bed
+887909|Standard Room, 1 Double Bed
+887910|Standard Triple Room
+887911|Standard Room, 2 Queen Beds, Non Smoking
+887912|Standard Room, 1 King Bed, Smoking
+887913|Deluxe Twin Room
+887914|Suite, 1 King Bed, Non Smoking
+887915|Room, 1 King Bed, Accessible, Non Smoking
+887916|Executive Suite
+887917|Classic Double Room
+887918|Suite, 1 King Bed
+887919|Room, 2 Queen Beds, Non Smoking
+887920|Executive Room
+887921|Superior Twin Room
+887922|Room, Accessible, Non Smoking
+887923|Suite, 1 Bedroom
+887924|Comfort Double Room
+887925|Room, 1 King Bed
+887926|Double Room, Ensuite
+887927|Standard Room, 2 Double Beds
+887928|Room, Accessible
+887929|Double Room, 2 Double Beds
+887930|Superior Room, 1 King Bed
+887931|Standard Room, 1 Queen Bed, Non Smoking
+887932|Standard Room, 2 Queen Beds, Smoking
+887933|Deluxe Suite
+887934|Apartment
+887935|Standard Twin Room, 2 Single Beds
+887936|Family Suite
+887937|Economy Double Room
+887938|Room, 1 King Bed, Accessible
+887939|Room
+887940|Superior Single Room
+887941|Suite, 2 Bedrooms
+887942|Superior Double or Twin Room
+887943|Room, 2 Double Beds, Non Smoking
+887944|Standard Room, 2 Double Beds, Non Smoking
+887945|Standard Double Room Single Use
+887946|Classic Room
+887947|Standard Quadruple Room
+887948|Superior Triple Room
+887949|Room, 2 Queen Beds
+887950|Room, 2 Queen Beds, Accessible, Non Smoking
+887951|Suite, Accessible, Non Smoking
+887952|Standard Room, 1 Queen Bed, Smoking
+887953|Standard Room, 1 King Bed, Non Smoking, Refrigerator & Microwave
+887954|Room, 1 Queen Bed, Non Smoking
+887955|Deluxe Suite, 1 King Bed
+887956|Deluxe Single Room
+887957|Double Room, Shared Bathroom
+887958|Double Room, 2 Double Beds, Smoking
+887959|Standard Apartment, 1 Bedroom
+887960|Condo, 2 Bedrooms
+887961|Standard Room, 1 Double or 2 Single Beds
+887962|Executive Room, 1 King Bed
+887963|Room, 1 Queen Bed
+887964|Twin Room, Ensuite
+887965|Standard Room, 1 Single Bed
+887966|Room, 1 King Bed, Smoking
+887967|Deluxe Room, 1 Queen Bed
+887968|Standard Apartment
+887969|Standard Double Room, 2 Double Beds, Non Smoking
+887970|Deluxe Triple Room
+887971|Executive Double Room
+887972|Standard Room, 1 King Bed, Accessible, Non Smoking
+887973|Suite, 2 Queen Beds, Non Smoking
+887974|Standard Apartment, 2 Bedrooms
+887975|Comfort Single Room
+887976|Double Room, Sea View
+887977|Business Room
+887978|Apartment, 3 Bedrooms
+887979|Superior Room, 2 Single Beds
+887980|One King Bed, Non-Smoking, Accessible
+887981|Standard Room, 2 Queen Beds, Non Smoking, Refrigerator & Microwave
+887982|Suite, Non Smoking
+887983|Deluxe Room, 2 Queen Beds
+887984|Deluxe Double or Twin Room
+887985|Superior Room, 1 Queen Bed
+887986|Deluxe Single Room, 1 King Bed
+887987|Suite, 1 King Bed with Sofabed, Non Smoking
+887988|Single Room, Shared Bathroom
+887989|Executive Room, 1 King Bed, Non Smoking
+887990|Deluxe Room, 1 Double Bed
+887991|Superior Suite
+887992|Double Room, Private Bathroom
+887993|Twin Room, 2 Single Beds
+887994|Standard Room, 1 King Bed, Accessible
+887995|Superior Double Room Single Use
+887996|Superior Room, 1 Double Bed
+887997|Junior Suite, 1 King Bed
+887998|Standard Room, 2 Double Beds, Smoking
+887999|Room, 2 Double Beds, Smoking
+888000|Room, Non Smoking
+888001|Standard Suite
+888002|Economy Single Room
+888003|Room, 2 Double Beds
+888004|Standard Room, 2 Single Beds, Non Smoking
+888005|Standard Double Room, 2 Double Beds
+888006|Standard Single Room, 1 Single Bed
+888007|Classic Single Room
+888008|Standard Room, 1 Queen Bed, Accessible
+888009|Standard Room, 1 Double Bed, Non Smoking
+888010|Condo, 1 Bedroom
+888011|Standard Room, Non Smoking
+888012|Economy Room
+888013|Presidential Suite
+888014|Standard Double Room, 2 Double Beds, Smoking
+888015|Family Room, Ensuite
+888016|Classic Double or Twin Room
+888017|Room, 2 Queen Beds, Smoking
+888018|Classic Twin Room
+888019|Suite, 1 King Bed, Accessible, Non Smoking
+888020|Double Room, Balcony
+888021|Suite, 1 Queen Bed
+888022|Room, 1 Queen Bed, Accessible, Non Smoking
+888023|Standard Double or Twin Room, 1 Double Bed, Private Bathroom
+888024|Single Room, Ensuite
+888025|Premium Room
+888026|Deluxe Suite, 1 Double Bed
+888027|Deluxe Room, 1 King Bed, Non Smoking
+888028|Room, 2 Queen Beds, Accessible
+888029|Business Room, 1 Queen Bed
+888030|Triple Room, Shared Bathroom
+888031|Standard Room, 1 King Bed, Accessible, Bathtub
+888032|Comfort Room
+888033|Suite, 1 King Bed with Sofabed
+888034|Business Room, 1 Double Bed
+888035|Double Room, Non Smoking
+888036|Deluxe Room, 2 Single Beds
+888037|Standard Double Room, 1 Double Bed
+888038|Single Room, 1 Single Bed
+888039|Suite, 1 King Bed, Smoking
+888040|Suite, 2 Queen Beds
+888041|Executive Suite, 1 King Bed
+888042|Business Room, 2 Single Beds
+888043|Double Room, Smoking
+888044|Twin Room, Non Smoking
+888045|Standard Room, Sea View
+888046|Business Twin Room, 2 Single Beds
+888047|Standard Double Room, 2 Single Beds
+888048|Villa, 2 Bedrooms
+888049|Business Suite, 1 King Bed
+888050|Club Room
+888051|Room, 1 Double Bed
+888052|Twin Room, Shared Bathroom
+888053|Executive Twin Room
+888054|Comfort Triple Room
+888055|Single Room, Non Smoking
+888056|Royal Suite
+888057|Villa
+888058|Basic Double Room
+888059|Family Quadruple Room
+888060|Standard Studio
+888061|One king bed non smoking
+888062|Suite, 1 Queen Bed, Non Smoking
+888063|Comfort Double or Twin Room
+888064|Classic Double Room Single Use
+888065|Standard Room, 1 Queen Bed, Accessible, Non Smoking
+888066|Triple Room, Ensuite
+888067|Single Room, Smoking
+888068|Luxury Room
+888069|One King Bed, Non-Smoking
+888070|Deluxe Room, 2 Double Beds
+888071|Standard Room, 1 King Bed with Sofabed
+888072|Premier Room
+888073|Condo, 3 Bedrooms
+888074|Studio Suite
+888075|Luxury Suite
+888076|Villa, 3 Bedrooms
+888077|Superior Studio
+888078|Standard Suite, 1 King Bed
+888079|Shared Dormitory
+888080|Superior Quadruple Room
+888081|Deluxe Double Room Single Use
+888082|Triple Room, Private Bathroom
+888083|Premium Double Room
+888084|Luxury Double Room
+888085|Classic Triple Room
+888086|Room, 1 Queen Bed, Accessible
+888087|Room, 1 Queen Bed, Smoking
+888088|Twin Room, Smoking
+888089|Standard Room, Multiple Beds
+888090|Business Double Room
+888091|Room, 1 Double Bed, Non Smoking
+888092|Traditional Room, 1 King Bed
+888093|Superior Room, 1 King Bed, Non Smoking
+888094|Family Quadruple Room, Ensuite
+888095|Double Room, 1 Double Bed
+888096|Comfort Twin Room
+888097|Standard Single Room, 1 Queen Bed
+888098|Suite, Accessible
+888099|Triple Room, Sea View
+888100|Family Triple Room, Ensuite
+888101|Deluxe Room, Sea View
+888102|Family Apartment
+888103|Standard Room, 1 Single Bed, Non Smoking
+888104|Family Triple Room
+888105|Standard Double Room, Ensuite
+888106|Studio, Accessible, Non Smoking
+888107|Comfort Double Room Single Use
+888108|Superior Room, 1 Double or 2 Single Beds
+888109|Standard Room, 2 Queen Beds, Accessible, Non Smoking
+888110|Double Room, Garden View
+888111|Deluxe Twin Room, 2 Single Beds
+888112|Triple Room, 3 Single Beds
+888113|Suite, Sea View
+888114|Twin Room, 2 Single Beds, Ensuite
+888115|Quadruple Room, Shared Bathroom
+888116|Single Room, Private Bathroom
+888117|Superior Twin Room, 2 Single Beds
+888118|Standard Room, 1 Bedroom
+888119|Bungalow
+888120|Business Suite
+888121|Honeymoon Suite
+888122|Standard Room, 2 Queen Beds, Accessible, Bathtub
+888123|Standard Room, 1 King Bed, Smoking, Refrigerator & Microwave
+888124|Studio, 1 King Bed, Accessible, Non Smoking
+888125|Economy Twin Room
+888126|Deluxe Single Room, 1 Double Bed
+888127|Double Room, 2 Double Beds, Non Smoking
+888128|Superior Apartment
+888129|Suite, 1 King Bed, Non Smoking, Refrigerator & Microwave
+888130|Deluxe Quadruple Room
+888131|Economy Double or Twin Room
+888132|Standard Double Room, Non Smoking
+888133|Deluxe Studio
+888134|Superior Double Room, Sea View
+888135|Two queen beds non smoking
+888136|One Bedroom Apartment
+888137|Junior Suite, Sea View
+888138|Superior Apartment, 1 Bedroom
+888139|Deluxe Room, 1 Double or 2 Single Beds
+888140|Executive Single Room
+888141|Superior Room, Sea View
+888142|Business Single Room, 1 King Bed
+888143|Business Single Room
+888144|Queen Room
+888145|Executive Room, 1 Double Bed
+888146|Penthouse
+888147|Suite, 2 Double Beds
+888148|Studio, Sea View
+888149|Traditional Room
+888150|Two Queen Beds, Non-Smoking, Accessible
+888151|Studio, 1 King Bed
+888152|Suite, 1 Double Bed
+888153|King Suite
+888154|Double Room, Accessible
+888155|Duplex
+888156|Villa, 1 Bedroom
+888157|Suite, 1 King Bed, Non Smoking, Jetted Tub
+888158|Suite, Multiple Beds, Non Smoking
+888159|Two Bedroom Apartment
+888160|Superior Apartment, 2 Bedrooms
+888161|Standard King
+888162|Club Room, 1 King Bed
+888163|Classic Room, 1 King Bed
+888164|Classic Room, 1 Queen Bed
+888165|Standard Room, Garden View
+888166|Standard
+888167|Studio, 1 Queen Bed
+888168|Group Rate
+888169|Cottage
+888170|Suite, 2 Double Beds, Non Smoking
+888171|Standard room
+888172|Executive Suite, 1 King Bed, Non Smoking
+888173|Standard Double Room, Sea View
+888174|Suite, 1 King Bed, Jetted Tub
+888175|Deluxe Single Room, 1 Queen Bed
+888176|King Room
+888177|Double or Twin Room, Sea View
+888178|Deluxe Apartment, 2 Bedrooms
+888179|Standard Room, 2 Double Beds, Non Smoking, Refrigerator & Microwave
+888180|One King Bed Non-Smoking Accessible
+888181|Triple Room, Balcony
+888182|Family Room, 2 Bedrooms
+888183|Standard Room, 1 Queen Bed, Non Smoking, Refrigerator & Microwave
+888184|Quadruple Room, Private Bathroom
+888185|Family Room, 2 Single Beds
+888186|Standard Single Room, 1 King Bed
+888187|Room, 2 Single Beds, Non Smoking
+888188|Standard Room, 2 Queen Beds, Accessible
+888189|Single Room, Sea View
+888190|Deluxe Apartment
+888191|Business Suite, 1 Double Bed
+888192|Grand Suite
+888193|House, 3 Bedrooms
+888194|Villa, 2 Bedrooms, Private Pool
+888195|Double Room, Terrace
+888196|Standard Room, 2 Queen Beds, Smoking, Refrigerator & Microwave
+888197|Double En-suite
+888198|Suite, 1 Bedroom, Non Smoking
+888199|Superior Double Room, Ensuite
+888200|Studio, 1 King Bed with Sofabed
+888201|One King Bed
+888202|Family Room, Sea View
+888203|Room, 2 Double Beds, Accessible, Non Smoking
+888204|Double Room Single Use, Ensuite
+888205|Deluxe Double Room, Sea View
+888206|Family Suite, 2 Bedrooms
+888207|Room, 1 King Bed with Sofabed, Non Smoking
+888208|Superior Double Room, Balcony
+888209|Two Queen Beds, Non-Smoking
+888210|Premium Room, 1 King Bed
+888211|Standard Double Room, Balcony
+888212|One King Bed, Smoking
+888213|Deluxe Apartment, 1 Bedroom
+888214|Twin Room, 2 Single Beds, Non Smoking
+888215|Standard Suite, 1 King Bed, Non Smoking, Refrigerator & Microwave
+888216|Studio Suite, 1 King Bed, Non Smoking
+888217|Room, 2 Double Beds, Accessible
+888218|Apartment, 1 Bedroom, Sea View
+888219|Guest Room, 1 King, Non-Smoking
+888220|Standard Apartment, 3 Bedrooms
+888221|Standard Double Room, 1 Queen Bed
+888222|Suite, 1 King Bed, Hot Tub
+888223|Economy Triple Room
+888224|Suite, One King Bed, Non-Smoking
+888225|Business Room, 1 King Bed, Non Smoking
+888226|Deluxe Double Room, 2 Double Beds
+888227|Loft
+888228|Guest Room, 2 Queen, Non-Smoking
+888229|Standard Room, 1 King Bed with Sofabed, Non Smoking
+888230|Townhome, 3 Bedrooms
+888231|Standard Double Room, Private Bathroom
+888232|Room, 1 Double Bed, Accessible, Non Smoking
+888233|Superior Room, 2 Double Beds
+888234|Executive Room, 1 Queen Bed
+888235|Premium Suite
+888236|Deluxe Room, Garden View
+888237|Suite, 2 Queen Beds, Accessible, Non Smoking
+888238|Standard Room, 1 King Bed, Non Smoking, Jetted Tub
+888239|Superior Suite, 1 King Bed
+888240|Villa, 4 Bedrooms
+888241|Twin Room, Private Bathroom
+888242|Business Twin Room
+888243|Twin Room, 2 Single Beds, Smoking
+888244|Business Double Room, 2 Single Beds
+888245|Premier Room, 1 King Bed
+888246|One Bedroom Suite
+888247|Superior Room, 2 Single Beds, Non Smoking
+888248|Standard Room, 1 King Bed, Non Smoking, Refrigerator
+888249|Guest Room, 1 King, Accessible, Non-Smoking
+888250|Classic Quadruple Room
+888251|Basic Single Room
+888252|Shared Dormitory, Women only
+888253|Villa, 3 Bedrooms, Private Pool
+888254|Standard Double Room, Shared Bathroom
+888255|Deluxe Room, 2 Queen Beds, Non Smoking
+888256|Double Room, Mountain View
+888257|Standard Queen Room
+888258|Standard Twin Room, Non Smoking
+888259|Standard Room, Multiple Beds, Non Smoking
+888260|Double or Twin Room, Shared Bathroom
+888261|Standard Suite, 1 Double Bed
+888262|Standard Room, 1 King Bed, View
+888263|Deluxe Suite, 1 Bedroom
+888264|Double or Twin Room, Ensuite
+888265|Executive Double or Twin Room
+888266|Two double beds non smoking
+888267|Guest Room
+888268|Deluxe Family Room
+888269|Standard Double or Twin Room, Private Bathroom
+888270|Shared Dormitory, Mixed Dorm
+888271|Studio Apartment
+888272|Junior Suite, 1 Double Bed
+888273|Standard Double Room, Smoking
+888274|Standard Guest Room
+888275|Apartment, 1 Bedroom, Balcony
+888276|Standard Single Room, 1 Double Bed
+888277|Double Room, 2 Queen Beds
+888278|Single Room, 1 Queen Bed
+888279|Room, 1 King Bed, Accessible, Bathtub
+888280|Standard Room, 1 King Bed, Non Smoking, Microwave
+888281|One Queen Bed, Non-Smoking, Accessible
+888282|Deluxe Room, City View
+888283|Suite, Jetted Tub
+888284|Senior Suite
+888285|Family Room, Shared Bathroom
+888286|Double Room, 1 Queen Bed
+888287|Suite, Balcony
+888288|Standard Room, 2 Bedrooms
+888289|Deluxe Room, 1 Queen Bed, Non Smoking
+888290|Comfort Quadruple Room
+888291|Deluxe Double Room, Balcony
+888292|Deluxe Room, 1 King Bed, Smoking
+888293|Suite, 2 Bedrooms, Non Smoking
+888294|Townhome, 2 Bedrooms
+888295|Family Room, Connecting Rooms
+888296|Twin En-suite
+888297|Family Room, Multiple Beds
+888298|Junior Suite, 1 King Bed, Non Smoking
+888299|Room, Multiple Beds, Accessible, Non Smoking
+888300|House, 2 Bedrooms
+888301|Deluxe Room, 1 Bedroom
+888302|Room, 2 Single Beds
+888303|Double Room, 1 King Bed
+888304|Villa, 1 Bedroom, Private Pool
+888305|Standard Double
+888306|Deluxe
+888307|Classic Suite
+888308|Twin Room, Sea View
+888309|Two Queen Beds
+888310|Premier Suite
+888311|Double Room, 2 Single Beds
+888312|Standard Double Room Single Use, 1 Double or 2 Single Beds
+888313|Guest Room, 2 Queen, Accessible, Non-Smoking
+888314|One King Bed, Non-Smoking, Roll In Shower
+888315|Standard Room, 2 Queen Beds, Non Smoking, Refrigerator
+888316|Apartment for 4 people
+888317|Deluxe King Room
+888318|Cottage, 2 Bedrooms
+888319|Standard Room, Japanese Futon
+888320|Superior Room, 2 Queen Beds
+888321|Single Room, 1 Single Bed, Ensuite
+888322|Two Double Beds, Non-Smoking
+888323|Super Deluxe Room
+888324|Deluxe King
+888325|Townhome, 1 Bedroom
+888326|Standard Double Room, Garden View
+888327|Room, Shared Bathroom
+888328|Master Suite
+888329|Apartment, 2 Bedrooms, Sea View
+888330|Traditional Room, 2 Queen Beds
+888331|Basic Room
+888332|Junior Suite, 1 Queen Bed
+888333|Deluxe Double Room, 1 Double Bed
+888334|Standard Room, 1 Queen Bed, Accessible, Bathtub
+888335|Studio Suite, 1 King Bed
+888336|Standard Twin Room, Ensuite
+888337|Room, 1 King Bed, Refrigerator & Microwave
+888338|Standard Single Room, Non Smoking
+888339|Executive Studio
+888340|Studio, 1 Queen Bed with Sofabed
+888341|Superior Single Room, 1 King Bed
+888342|Double Room, Balcony, Sea View
+888343|Deluxe Room, Ocean View
+888344|Chalet
+888345|Suite, Terrace
+888346|Deluxe Double Room, 1 King Bed
+888347|Deluxe Room, Balcony
+888348|Deluxe Triple Room, Multiple Beds
+888349|Family Studio
+888350|Family Apartment, 2 Bedrooms
+888351|Double or Twin Room, Balcony
+888352|Suite, 3 Bedrooms
+888353|Standard Room, 1 King Bed, Sea View
+888354|Deluxe Room, Pool View
+888355|House
+888356|Family Room, Private Bathroom
+888357|Double Ensuite
+888358|Triple Room with 3 single beds
+888359|Studio, 1 Double Bed
+888360|Junior Suite, Balcony
+888361|Standard Room, 2 Queen Beds, Non Smoking, Microwave
+888362|Studio Suite, 1 Queen Bed, Non Smoking
+888363|Double Room, City View
+888364|Superior
+888365|Standard Double Room, 1 King Bed
+888366|Standard Room, 1 King Bed, Jetted Tub
+888367|Superior Room, 1 Single Bed
+888368|Economy Double Room Single Use
+888369|Family Room, Balcony
+888370|One King Bed, Accessible
+888371|Suite, 1 King Bed, Accessible
+888372|Twin room
+888373|Business Single Room, 1 Queen Bed
+888374|Superior Room, 1 Double Bed, Non Smoking
+888375|Deluxe Suite, 1 Queen Bed
+888376|Triple Room, Non Smoking
+888377|Suite, 1 Queen Bed, Smoking
+888378|Triple Room with double bed & extra bed
+888379|Deluxe Suite, 2 Single Beds
+888380|Standard Triple Room, 3 Single Beds
+888381|Classic Room, 1 Double Bed
+888382|Standard Triple Room, Multiple Beds
+888383|Superior Room, 1 Queen Bed, Non Smoking
+888384|Double Room, Lake View
+888385|Deluxe Room, Non Smoking
+888386|Double or Twin Room, Private Bathroom
+888387|Family Room, Non Smoking
+888388|Double Room (Small)
+888389|Superior Room, Garden View
+888390|Single Room, Balcony
+888391|Standard Room, 1 Double Bed, Smoking
+888392|Studio, 2 Queen Beds
+888393|Room, Multiple Beds, Non Smoking
+888394|Presidential Suite, 1 King Bed
+888395|Business Room, 1 Double or 2 Single Beds
+888396|Standard Twin Room, Smoking
+888397|Room, 2 Queen Beds, Refrigerator & Microwave
+888398|House, 4 Bedrooms
+888399|Double Room Single Occupancy
+888400|Classic Room, 2 Single Beds
+888401|Executive Triple Room
+888402|Quadruple Room, Ensuite
+888403|Standard Suite, 1 King Bed, Non Smoking
+888404|Suite, 1 Queen Bed with Sofabed
+888405|Standard Twin Room, Shared Bathroom
+888406|Studio, Balcony
+888407|Superior Room, 1 King Bed, Smoking
+888408|Standard Double or Twin Room, 1 Bedroom, Private Bathroom
+888409|Two Bedroom Suite
+888410|Standard Double or Twin Room, 1 Double Bed
+888411|Double Room, Annex Building
+888412|Family Room, Multiple Beds, Non Smoking
+888413|Standard Room, 2 Single Beds, View
+888414|Superior Double Room, 1 Double Bed
+888415|Deluxe Suite, 2 Bedrooms
+888416|Standard Room, Balcony
+888417|Room, 1 Bedroom
+888418|Luxury Room, 1 King Bed
+888419|Suite, Multiple Beds
+888420|Traditional Room, 2 Double Beds
+888421|Economy Double Room, Shared Bathroom
+888422|Two Queen Beds, Smoking
+888423|Standard Suite, 2 Single Beds
+888424|Suite, 1 King Bed, Refrigerator
+888425|Suite, One King Bed, Accessible
+888426|Executive Suite, 1 Bedroom
+888427|Triple Room, Garden View
+888428|Room, 1 Double Bed, Smoking
+888429|Quadruple Room, Sea View
+888430|Superior Double Room, 1 King Bed
+888431|Twin Ensuite
+888432|Apartment for 2 people
+888433|Apartment, Sea View
+888434|Comfort Double Room, Balcony
+888435|Double Room, 2 Double Beds, Accessible
+888436|Standard Single
+888437|Two Double Beds, Non-Smoking, Accessible
+888438|Deluxe Queen Room
+888439|Run of House
+888440|Luxury Single Room
+888441|Two Queen Beds Non-Smoking Accessible
+888442|Room, 1 King Bed, Non Smoking, Refrigerator & Microwave
+888443|Room, 1 King Bed with Sofabed
+888444|Deluxe Room, 2 Double Beds, Non Smoking
+888445|Double Room, Bathtub
+888446|Apartment, 2 Bedrooms, Balcony
+888447|Executive Room, 2 Queen Beds, Non Smoking
+888448|Executive Single Room, 1 King Bed
+888449|Suite, Garden View
+888450|Suite, 1 King Bed, Microwave
+888451|Business Single Room, 1 Double Bed
+888452|Deluxe Villa
+888453|Double Room Single Use, Sea View
+888454|Family Room (Standard)
+888455|Standard Room, 2 Double Beds, Accessible, Non Smoking
+888456|Room, Multiple Beds
+888457|Single Room, 1 King Bed
+888458|Standard Room, 1 King Bed, Accessible, Smoking
+888459|Studio, Kitchenette
+888460|Standard Queen
+888461|Standard Twin Room, 2 Single Beds, Non Smoking
+888462|Standard Double Room, 2 Queen Beds
+888463|Junior Suite, 1 Bedroom
+888464|Executive Room, 2 Single Beds
+888465|Luxury Apartment, 2 Bedrooms
+888466|Family Double Room
+888467|Family Room, Garden View
+888468|Apartment, 1 Bedroom, Terrace
+888469|Premier Double Room
+888470|Studio Suite, Accessible, Non Smoking
+888471|Honeymoon Room, 1 King Bed
+888472|Condo
+888473|Room, 2 Queen Beds, Accessible, Bathtub
+888474|Suite, 2 Queen Beds, Non Smoking, Refrigerator & Microwave
+888475|Standard Room, Ocean View
+888476|Standard Room, 2 Double Beds, Smoking, Refrigerator & Microwave
+888477|Standard room with king bed
+888478|Traditional Double Room
+888479|Executive Double Room Single Use
+888480|Superior Double Room, Terrace
+888481|Studio, Garden View
+888482|King Non Smoking
+888483|Comfort Suite
+888484|Deluxe Double Room, Ensuite
+888485|Economy Studio
+888486|Junior Suite, 1 King Bed with Sofabed
+888487|Basic Triple Room
+888488|Room, 1 Double Bed, Accessible
+888489|Room, 1 King Bed, Non Smoking (Leisure)
+888490|Single Room, 1 Double Bed
+888491|Deluxe Room, 2 Single Beds, Non Smoking
+888492|Family Room, 1 Bedroom
+888493|Apartment, 4 Bedrooms
+888494|Deluxe Room, 1 King Bed, Non Smoking, Refrigerator & Microwave
+888495|Two Double Beds, Smoking
+888496|Luxury Triple Room
+888497|Family Suite, 2 Single Beds
+888498|Standard Single Room, Shared Bathroom
+888499|Standard Room, City View
+888500|Family Room, 2 Double Beds
+888501|Shared Dormitory, Men only
+888502|Standard Room, 2 Single Beds, Sea View
+888503|Standard Double Room, City View
+888504|Superior Suite, 1 Double Bed
+888505|Room, 1 King Bed, Non Smoking (LEISURE)
+888506|One king study sofabed non smoking
+888507|Deluxe Room, 1 King Bed with Sofabed
+888508|Double Room, Partial Sea View
+888509|Executive Room, 2 Queen Beds
+888510|Standard Room, Accessible
+888511|Standard Studio, 1 Double Bed, Kitchen
+888512|Economy Quadruple Room
+888513|Superior Room, City View
+888514|Standard Studio, 2 Double Beds, Kitchen
+888515|One King Bed Non-Smoking
+888516|Premium Twin Room
+888517|Two Queen Beds Smoking
+888518|Suite (Master)
+888519|Quadruple Room, Balcony
+888520|Luxury Twin Room
+888521|Townhome, 4 Bedrooms
+888522|Single Room, Garden View
+888523|Superior room
+888524|Apartment for 3 people
+888525|Standard Room, Smoking
+888526|Deluxe Bungalow
+888527|Double Bed & Breakfast Promo
+888528|Cabin, 2 Bedrooms
+888529|Club Double Room
+888530|Standard Room, 1 King Bed, Garden View
+888531|Family Suite, Multiple Beds
+888532|Business Class Room
+888533|Double Room, Pool View
+888534|Two Doubles Non Smoking
+888535|Single room
+888536|Apartment, 1 Bedroom, Garden View
+888537|Superior Double Room Single Use, 1 Double or 2 Single Beds
+888538|Double or Twin Room, Garden View
+888539|Super Deluxe
+888540|Single Room, 1 Single Bed, Non Smoking
+888541|Deluxe Suite, 1 Double or 2 Single Beds
+888542|Superior Double Room, Garden View
+888543|Standard Double Room, Mountain View
+888544|Comfort Apartment
+888545|Two Beds, Non-Smoking, Accessible
+888546|Standard Room, 2 Double Beds, Refrigerator & Microwave
+888547|Family Bungalow
+888548|Deluxe Room, 1 King Bed, Accessible
+888549|Deluxe room
+888550|Premium Single Room
+888551|Small Double Room
+888552|Standard Single Room, Smoking
+888553|Deluxe Double Room, City View
+888554|Double Room (with extra bed)
+888555|Bungalow, Garden View
+888556|Luxury Apartment, 1 Bedroom
+888557|Deluxe, One King Bed
+888558|Standard Room, 1 King Bed, Refrigerator & Microwave
+888559|Cabin
+888560|Room, 1 King Bed, Non Smoking (Guest)
+888561|Room, 1 Double Bed with Sofabed, Non Smoking
+888562|Apartment, 2 Bedrooms, Terrace
+888563|Studio, 2 Single Beds
+888564|Executive Room, 1 Double Bed, Non Smoking
+888565|Comfort Room, 1 Queen Bed
+888566|Standard (Test)
+888567|King Bed
+888568|Superior Room, Balcony
+888569|Superior Room, Non Smoking
+888570|Deluxe Suite, 1 King Bed, Non Smoking
+888571|Apartment, 1 Bedroom, Kitchen
+888572|Junior Suite, 1 Double or 2 Single Beds
+888573|Deluxe Room, Accessible, Non Smoking
+888574|Deluxe Twin Room, Non Smoking
+888575|Villa, 4 Bedrooms, Private Pool
+888576|Room, 1 King Bed, Ensuite
+888577|Deluxe Room, 1 King Bed, City View
+888578|Deluxe Room, 1 King Bed, View
+888579|Economy Single Room, Shared Bathroom
+888580|Standard Room, 1 Queen Bed with Sofabed
+888581|Run of the House
+888582|Standard Room (Guest)
+888583|Standard Triple Room, 1 Bedroom
+888584|Room, 2 Queen Beds, Non Smoking, Refrigerator & Microwave
+888585|Standard Bungalow
+888586|Business Room, 1 King Bed, Smoking
+888587|Two Double Beds
+888588|Standard King Room
+888589|Studio, 1 King Bed, Non Smoking
+888590|Suite, Ocean View
+888591|Double Room, View
+888592|VIP Room
+888593|Standard Twin
+888594|Basic Twin Room
+888595|Standard Room, Pool View
+888596|Superior Family Room
+888597|Two queens
+888598|Quad Room
+888599|Executive Suite, 1 Double Bed
+888600|Room, 1 King Bed (High Floor)
+888601|Room, 1 King Bed, Non Smoking, Jetted Tub
+888602|Standard Room, Mountain View
+888603|Bungalow, 2 Bedrooms
+888604|Deluxe Suite, Sea View
+888605|Executive Room, Non Smoking
+888606|Suite, 1 Queen Bed with Sofabed, Non Smoking
+888607|Standard Room, Partial Sea View
+888608|Single En-suite
+888609|Double Room, 1 King Bed, Ensuite
+888610|King bed
+888611|Triple Room, Smoking
+888612|Romantic Double Room
+888613|Room, 1 King Bed, Accessible, Smoking
+888614|Standard Single Room, Sea View
+888615|Standard Room, 2 Single Beds, Smoking
+888616|Club Suite
+888617|Standard Room, 2 Queen Beds, Refrigerator & Microwave
+888618|Superior Double Room, Non Smoking
+888619|Deluxe Room, 1 King Bed, Accessible, Non Smoking
+888620|Studio, 2 Queen Beds, Accessible, Non Smoking
+888621|Traditional Room, 1 Queen Bed
+888622|Single Room, Mountain View
+888623|Standard King Smoking
+888624|Superior Bungalow
+888625|Suite, Smoking
+888626|Deluxe Room, 1 King Bed, Sea View
+888627|Superior Single Room, 1 Single Bed
+888628|Junior Suite, Terrace
+888629|Standard Room, 2 Double Beds, Accessible, Bathtub
+888630|Superior Double or Twin Room, Sea View
+888631|Penthouse, 2 Bedrooms
+888632|Standard Double Room, 1 Bedroom
+888633|One King Smoking
+888634|Family Room, 1 Double or 2 Single Beds
+888635|Deluxe Double Room, Garden View
+888636|Cottage, 1 Bedroom
+888637|Single Room, 1 Single Bed, Smoking
+888638|Executive Room, 1 King Bed, Smoking
+888639|Suite, 2 Queen Beds, Accessible
+888640|Comfort Twin Room, 2 Single Beds
+888641|Two Doubles Smoking
+888642|Double Room, Accessible, Non Smoking
+888643|Suite, 2 Queen Beds, Smoking
+888644|Executive Room, 1 Double or 2 Single Beds
+888645|Apartment, 2 Bedrooms, Kitchen
+888646|Junior Suite, Garden View
+888647|Room, 1 Single Bed, Non Smoking
+888648|Economy Double Room, Non Smoking
+888649|Comfort Room, 1 Double Bed
+888650|Double ensuite
+888651|Executive Room, 1 Bedroom
+888652|Superior King Room
+888653|Junior Suite (Single Use)
+888654|Superior Twin Room, Non Smoking
+888655|Studio One Queen Smoking
+888656|Traditional Double Room, 2 Double Beds
+888657|Classic Twin Room, 2 Single Beds
+888658|Superior Single Room, 1 Queen Bed
+888659|Apartment, Balcony
+888660|Grand Deluxe Room
+888661|Three Bedroom Apartment
+888662|Standard Room, 1 Queen Bed, Non Smoking, Refrigerator
+888663|Standard Triple Room, Private Bathroom
+888664|Family Apartment, 1 Bedroom
+888665|Standard Room, 1 Queen Bed, Refrigerator & Microwave
+888666|Luxury Apartment
+888667|Standard Double or Twin Room, Sea View
+888668|Villa, 5 Bedrooms
+888669|Executive Apartment, 2 Bedrooms
+888670|Standard Single Room, Ensuite
+888671|Executive Twin Room, 2 Single Beds
+888672|Standard Single Room, Private Bathroom
+888673|Deluxe Single Room, 1 Single Bed
+888674|Standard Family Room
+888675|Comfort Apartment, 1 Bedroom
+888676|Grand Room
+888677|Superior Double Room, City View
+888678|One Queen Bed, Non-Smoking
+888679|Room, Smoking
+888680|Superior Double
+888681|Room, 2 Bedrooms
+888682|King
+888683|Suite, 1 Queen Bed, Accessible, Non Smoking
+888684|Executive Suite, Non Smoking
+888685|Cabin, 3 Bedrooms
+888686|Executive Room, 1 Queen Bed, Non Smoking
+888687|One queen bed non smoking
+888688|Two Queens
+888689|Suite, 1 Double or 2 Single Beds
+888690|Executive Apartment, 1 Bedroom
+888691|Studio Suite, 1 King Bed, Accessible, Non Smoking
+888692|Studio One Queen Non Smoking
+888693|Standard Room, 1 King Bed, Ocean View
+888694|Deluxe Double Room, 2 Single Beds
+888695|Room, 1 King Bed, Microwave
+888696|Deluxe Room, 2 Queen Beds, Non Smoking, Refrigerator & Microwave
+888697|Room, 2 Queen Beds, Non Smoking (Guest)
+888698|Garden Suite
+888699|Studio, 1 Queen Bed, Non Smoking
+888700|Room, Garden View
+888701|Triple Room, Mountain View
+888702|Comfort Room, 1 King Bed
+888703|SGR
+888704|Shared Dormitory, Shared Bathroom
+888705|Studio Suite, 1 Queen Bed, Accessible, Non Smoking
+888706|One King Bed Smoking
+888707|Standard Room, 1 Queen Bed, Accessible, Smoking
+888708|Double Room, 1 Double Bed, Non Smoking
+888709|Comfort Room, 2 Single Beds, Non Smoking
+888710|Standard Suite, 1 Queen Bed
+888711|Queen Suite
+888712|Basic Double Room, Shared Bathroom
+888713|Executive Apartment
+888714|Studio Suite, 2 Queen Beds, Non Smoking
+888715|Standard Room, Shared Bathroom
+888716|Economy Twin Room, Shared Bathroom
+888717|Superior Double Room, 1 Queen Bed
+888718|Club Twin Room
+888719|Standard Suite, 1 Bedroom
+888720|Deluxe Suite, 1 King Bed with Sofabed
+888721|Garden Room
+888722|Twin Room, Balcony
+888723|Suite Room
+888724|Standard room with two queen beds
+888725|Comfort Studio
+888726|Standard Studio, 1 Double Bed, Accessible, Kitchen (Roll in shower)
+888727|Standard Single Room, 1 Bedroom
+888728|Standard Studio, 1 Double Bed with Sofabed, Accessible, Kitchen
+888729|Deluxe Twin
+888730|Standard Apartment, 1 Double Bed
+888731|Room, 1 King Bed, Refrigerator
+888732|Standard Studio, 1 Double Bed with Sofabed, Kitchen
+888733|Comfort Room, 2 Single Beds
+888734|Economy Room, 1 Queen Bed
+888735|Family Twin Room
+888736|Room, 2 Single Beds, Smoking
+888737|Studio, Kitchen
+888738|Executive Room, 2 Double Beds, Non Smoking
+888739|Apartment, Private Bathroom
+888740|Presidential Suite, 1 King Bed, Non Smoking
+888741|Luxury Suite, 1 King Bed
+888742|Standard Studio, 1 Double Bed with Sofabed, Accessible, Kitchen (Roll in shower)
+888743|Business
+888744|Standard Room, 1 Double Bed, Accessible
+888745|Standard Triple Room, Sea View
+888746|One Queen Non Smoking
+888747|Penthouse, 3 Bedrooms
+888748|Basic Double or Twin Room
+888749|Standard Apartment, 2 Bedrooms, Kitchen
+888750|Deluxe Room, 2 Bedrooms
+888751|Suite, One King Bed
+888752|Economy Double Room, Smoking
+888753|Classic Room, 2 Queen Beds
+888754|Deluxe Double Room, Non Smoking
+888755|Double Room, Balcony, Mountain View
+888756|Suite, 1 King Bed, Accessible, Bathtub
+888757|Standard Room, 1 Queen Bed with Sofabed, Non Smoking
+888758|Twin
+888759|Studio, Terrace
+888760|Standard Suite, 1 Double or 2 Single Beds
+888761|Standard Room, 1 King Bed, Non Smoking, Balcony
+888762|Executive Suite, 1 King Bed with Sofabed
+888763|Two Double Beds Smoking
+888764|Standard Two Doubles
+888765|Junior Suite, Jetted Tub
+888766|Room, Ocean View
+888767|Condo, 4 Bedrooms
+888768|Superior Double Room, Private Bathroom
+888769|Room, 1 King Bed, Jetted Tub
+888770|Standard Two Queens
+888771|Two Queen Beds, Accessible
+888772|Twin ensuite
+888773|Room, 1 King Bed, City View
+888774|Standard Twin Room, Private Bathroom
+888775|Room, 1 King Bed, Accessible, Non Smoking (Roll In Shower)
+888776|Japanese Style Room
+888777|Grand Deluxe
+888778|1 Bedroom Apartment
+888779|Superior Double Room, 2 Double Beds
+888780|Superior Room, Pool View
+888781|Suite, City View
+888782|Suite, 1 King Bed with Sofabed, Smoking
+888783|Classic Studio
+888784|Suite, 1 King Bed, Non Smoking, Kitchenette
+888785|Classic Room, 2 Double Beds
+888786|Economy Double Room, 1 Double Bed
+888787|Superior Triple Room, Sea View
+888788|Executive King
+888789|Standard Room, 1 King Bed, River View
+888790|Deluxe Double
+888791|Twin Room, Garden View
+888792|Executive Room, 2 Single Beds, Non Smoking
+888793|Superior Suite, 1 Bedroom
+888794|Standard Room, 1 Double Bed, Accessible, Non Smoking
+888795|Two queen beds smoking
+888796|One Queen Bed Non-Smoking Accessible
+888797|Deal of the day
+888798|Classic Double Room, Sea View
+888799|Business (Chinese Resident only)
+888800|Cottage, 3 Bedrooms
+888801|Quadruple Room, Non Smoking
+888802|Economy Single Room, 1 Single Bed
+888803|Suite, 1 King Bed, Smoking, Jetted Tub
+888804|Executive, One King Bed, Non-Smoking
+888805|Comfort Double Room, 1 Double Bed
+888806|Family Room, Multiple Beds, Ensuite
+888807|Quintuple Room
+888808|Standard Double Room, 1 Double or 2 Single Beds
+888809|Executive Room, Multiple Beds, Non Smoking
+888810|Two Queen Beds Non-Smoking
+888811|Apartment, 1 Bedroom (4 people)
+888812|Suite, 1 King Bed, Refrigerator & Microwave
+888813|Suite, 1 Bedroom, Ocean View
+888814|Deluxe Room, Pool Access
+888815|Suite, 2 Single Beds
+888816|Double Room, Ensuite, Sea View
+888817|Premium Room, 2 Queen Beds
+888818|Standard Twin Room, 2 Single Beds, Smoking
+888819|Room, 1 King Bed (Guest)
+888820|Room, Accessible, Bathtub (MOBILITY)
+888821|Junior Room
+888822|Apartment, 1 Bedroom, Kitchenette
+888823|Suite, Private Bathroom
+888824|Budget Room
+888825|Studio Suite, 1 Queen Bed
+888826|Junior Suite, City View
+888827|House, 1 Bedroom
+888828|Superior Single Room, 1 Double Bed
+888829|Honeymoon Suite, 1 King Bed
+888830|Executive Single Room, 1 Double Bed
+888831|Comfort Double Room, Bathtub
+888832|Bungalow, 1 Bedroom
+888833|Suite, 1 Double Bed, Non Smoking
+888834|Suite, 1 King Bed, Non Smoking, Hot Tub
+888835|Luxury Double or Twin Room
+888836|Studio (Triple)
+888837|Executive
+888838|Executive Suite, 2 Bedrooms
+888839|Superior Double Room, Mountain View
+888840|Single Ensuite
+888841|Standard Suite, 1 King Bed, Non Smoking, Jetted Tub
+888842|Business Double or Twin Room
+888843|Basic Single Room, Shared Bathroom
+888844|Deluxe Double Room, 2 Queen Beds
+888845|Deluxe Room, 1 Double Bed, Non Smoking
+888846|Premium Triple Room
+888847|Business Double Room Single Use
+888848|Romantic Room
+888849|Twin Room, 2 Single Beds, Shared Bathroom
+888850|Standard double
+888851|Suite, 2 Double Beds, Smoking
+888852|Superior Twin
+888853|Deluxe Queen
+888854|Junior Suite, 2 Queen Beds
+888855|Studio, 1 Bedroom
+888856|Standard Duplex, 1 King Bed
+888857|Deluxe Room, 2 Queen Beds, Smoking
+888858|Honeymoon Room
+888859|Double or Twin Room, Mountain View
+888860|Deluxe Room, River View
+888861|Executive Room, 2 Double Beds
+888862|Standard Room, 1 Queen Bed, Smoking, Refrigerator & Microwave
+888863|Standard Room, 1 Semi-double Bed
+888864|Privilege, Room, 1 Double Bed
+888865|Standard Room, 1 King Bed, Non Smoking, Kitchenette
+888866|Superior Double Room, Lake View
+888867|Standard Apartment, 1 Bedroom, Kitchen
+888868|Standard Double or Twin Room, 1 Double or 2 Single Beds
+888869|Standard Room, 2 Single Beds, Garden View
+888870|Family Suite, 1 Double or 2 Single Beds
+888871|Romantic Room, 1 King Bed
+888872|Modern, Room, 1 Queen Bed
+888873|Deluxe Room, Multiple Beds
+888874|Executive Room, 1 King Bed with Sofabed, Refrigerator & Microwave
+888875|Deluxe Room, Accessible
+888876|Room, Sea View
+888877|2 Bedroom Apartment
